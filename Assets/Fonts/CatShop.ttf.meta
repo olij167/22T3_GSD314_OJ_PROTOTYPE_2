@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9823befa0a677b145b8da4b1c1dddf7a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CatShop
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ae9d19feb5f6e4241bf1627738191cf7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
